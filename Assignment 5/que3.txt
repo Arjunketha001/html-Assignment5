@@ -1,0 +1,7 @@
+The <meta> tags provide metadata about the HTML document, which can be used by search engines to understand 
+the content of the page better. Metadata such as the description can influence click-through rates from 
+search engine results.
+
+The use of <section> and <nav> elements helps to define the structure and outline of the document, making it 
+easier for search engines to parse and index the content effectively. This structural clarity can contribute 
+to better SEO by ensuring that the content hierarchy is recognized by search engines.

@@ -1,0 +1,6 @@
+SEO stands for Search Engine Optimization. It involves the process of optimizing a website
+ to increase its visibility when people search for products or services related to the business in search engines.
+The importance of SEO lies in its ability to help drive more organic (non-paid) traffic to a site, which can lead 
+to increased brand awareness, higher sales, and growth. Effective SEO strategies improve a website's ranking 
+in search engine results pages (SERPs), making it more likely that potential customers will see and click on 
+the site.
